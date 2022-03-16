@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me fx.gtpro@gmail.com
+- 📫 How to reach me ...
 
 <!---
 Ralmsyah/Ralmsyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
